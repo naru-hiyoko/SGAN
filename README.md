@@ -1,5 +1,11 @@
 # Stacked Generative Adversarial Networks
 
+announce for lab member.
+lasanear
+replace 
+# /lib/python3.4/site-packages/lasagne/layers/pool.py
+for 
+pool.py
 
 This repository contains code for the paper "[Stacked Generative Adversarial Networks](https://arxiv.org/abs/1612.04357)", CVPR 2017. Part of the code is modified from OpenAI's [implementation](https://github.com/openai/improved-gan) of Improved GAN.
 
